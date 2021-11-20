@@ -71,7 +71,7 @@
                                 </div>
                                 <div class="form-group">
                                     <label for="role">Role Akun:</label>
-                                    <select class="custom-select custom-select-sm" id="role">
+                                    <select class="custom-select custom-select-sm" id="role" name="role">
                                         <option value="ADMIN">Admin</option>
                                         <option value="MANAGER">Manager</option>
                                         <option value="PEGAWAI">Pegawai</option>
